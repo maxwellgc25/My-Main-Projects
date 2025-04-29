@@ -1,0 +1,10 @@
+CThompson,12345,Charles,Thompson,14
+JSmith,12345,John,Smith,20
+CSmith,12345,Carol,Smith,22
+DGlenn,12345,David,Glenn,10
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2

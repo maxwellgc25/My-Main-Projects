@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\userinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:userinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\upcomingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:upcomingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\userinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:userinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\serviceinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:serviceinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\calendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:calendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\manageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:manageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\serviceinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:serviceinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\partsorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:partsorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\partsorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:partsorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\serviceincustform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:serviceincustform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:contactsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\calendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:calendarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\manageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:manageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|c:\\users\\maxwe\\desktop\\max_cantrell_cpt_185_final_project\\max_cantrell_cpt_185_final_project\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E1FB74-CD87-4AC8-92FF-059134399F7C}|Max_Cantrell_CPT_185_Final_Project.csproj|solutionrelative:progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalendarForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\CalendarForm.cs",
+              "RelativeDocumentMoniker": "CalendarForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\CalendarForm.cs",
+              "RelativeToolTip": "CalendarForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:57:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactsForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ContactsForm.cs",
+              "RelativeDocumentMoniker": "ContactsForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ContactsForm.cs",
+              "RelativeToolTip": "ContactsForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:56:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProgressForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "ProgressForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ProgressForm.cs",
+              "RelativeToolTip": "ProgressForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:30:10.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\HomeForm.cs",
+              "RelativeToolTip": "HomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:21:28.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:19:45.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ManageForm.cs",
+              "RelativeDocumentMoniker": "ManageForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ManageForm.cs",
+              "RelativeToolTip": "ManageForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:57:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceInCustForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ServiceInCustForm.cs",
+              "RelativeDocumentMoniker": "ServiceInCustForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\ServiceInCustForm.cs [Design]",
+              "RelativeToolTip": "..\\ServiceInCustForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:06:14.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PartsOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\PartsOrderForm.cs",
+              "RelativeDocumentMoniker": "PartsOrderForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\PartsOrderForm.cs",
+              "RelativeToolTip": "PartsOrderForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:27:54.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\UserInfoForm.cs",
+              "RelativeDocumentMoniker": "UserInfoForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\UserInfoForm.cs",
+              "RelativeToolTip": "UserInfoForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:19:55.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ServiceInForm.cs",
+              "RelativeDocumentMoniker": "ServiceInForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\ServiceInForm.cs [Design]",
+              "RelativeToolTip": "..\\ServiceInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:46:35.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\CalendarForm.cs",
+              "RelativeDocumentMoniker": "CalendarForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\CalendarForm.cs [Design]",
+              "RelativeToolTip": "..\\CalendarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:26:50.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\HomeForm.cs [Design]",
+              "RelativeToolTip": "..\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:56:26.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:50:18.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ContactsForm.cs",
+              "RelativeDocumentMoniker": "ContactsForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\ContactsForm.cs [Design]",
+              "RelativeToolTip": "..\\ContactsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:29:38.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ManageForm.cs",
+              "RelativeDocumentMoniker": "ManageForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\ManageForm.cs [Design]",
+              "RelativeToolTip": "..\\ManageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:31:02.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\UserInfoForm.cs",
+              "RelativeDocumentMoniker": "UserInfoForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\UserInfoForm.cs [Design]",
+              "RelativeToolTip": "..\\UserInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:09:29.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpcomingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\UpcomingForm.cs",
+              "RelativeDocumentMoniker": "UpcomingForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\UpcomingForm.cs [Design]",
+              "RelativeToolTip": "..\\UpcomingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:05:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "ProgressForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\ProgressForm.cs [Design]",
+              "RelativeToolTip": "..\\ProgressForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:48:25.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PartsOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\PartsOrderForm.cs",
+              "RelativeDocumentMoniker": "PartsOrderForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\PartsOrderForm.cs [Design]",
+              "RelativeToolTip": "..\\PartsOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:48:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceInForm.cs",
+              "DocumentMoniker": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ServiceInForm.cs",
+              "RelativeDocumentMoniker": "ServiceInForm.cs",
+              "ToolTip": "C:\\Users\\maxwe\\Desktop\\Max_Cantrell_CPT_185_Final_Project\\Max_Cantrell_CPT_185_Final_Project\\ServiceInForm.cs",
+              "RelativeToolTip": "ServiceInForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:18:56.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
